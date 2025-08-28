@@ -19,9 +19,6 @@ I build the unseen foundations of products — scalable APIs, resilient services
 ---
 
 ## 🏅 Achievements & Badges
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ceeylla-Favv&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
-</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge&logo=github"/>
